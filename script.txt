@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Dead-Rails-Alpha-OP-KiciaHook-V2-Dead-Rails-Auto-Farm-And-More-38614"))()
